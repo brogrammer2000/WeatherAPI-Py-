@@ -19,7 +19,7 @@ def APIcall(): #putting the coode in one method so that we can pass it in schedu
   prediction = {} #declaring a dictionary to store the json data
   prediction = json_data["DailyForecasts"][0]["Day"] #extracts only the day's weather forecasts(cleans the data)
   with open("C:\Users\user\Desktop\pythonAPI\data123.txt", "a") as cleaned: #opening the local file to store the cleaned data
-   json.dump(prediction,cleaned) #dumps the JSON dictionary in the locl file
+   json.dump(prediction,cleaned) #dumps the JSON dictionary in the local file
    cleaned.write("\n") #prints a blank line so that next day's forecast can be viewed clearly
   with open("C:\Users\user\Desktop\pythonAPI\data1234.txt", "a") as raw: #opening the local file to store the raw data
    raw.write(content) #writes the forecast content in the local file
