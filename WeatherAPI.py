@@ -9,9 +9,9 @@ cities = ["170353", "174479", "170531", "174504", "174504", "174459", "174030", 
 def APIcall(): #putting the coode in one method so that we can pass it in scheduler
 
  for city in cities: #using for loop to loop through the cities
-  url = "http://dataservice.accuweather.com/forecasts/v1/daily/1day/170353?apikey=UEUHmHQn3uRrNBAqfdPRFQQ8GQ9F4ZAb&language=en-us" #API call URL
+  url = "http://dataservice.accuweather.com/forecasts/v1/daily/1day/"+city+"?apikey=UEUHmHQn3uRrNBAqfdPRFQQ8GQ9F4ZAb&language=en-us" #API call URL
 
-  r = requests.get("http://dataservice.accuweather.com/forecasts/v1/daily/1day/170353?apikey=UEUHmHQn3uRrNBAqfdPRFQQ8GQ9F4ZAb&language=en-us") #API call URL
+  r = requests.get("http://dataservice.accuweather.com/forecasts/v1/daily/1day/"+city+"?apikey=UEUHmHQn3uRrNBAqfdPRFQQ8GQ9F4ZAb&language=en-us") #API call URL
   content = r.content #fetches the content from api in the form of string
 
   json_data = requests.get(url).json() #fetches the content from api in the form of JSON
