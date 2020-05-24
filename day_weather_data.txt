@@ -1,0 +1,4 @@
+{"PrecipitationType": "Rain", "HasPrecipitation": true, "PrecipitationIntensity": "Light", "IconPhrase": "Mostly cloudy w/ showers", "Icon": 13}
+{"PrecipitationType": "Rain", "HasPrecipitation": true, "PrecipitationIntensity": "Light", "IconPhrase": "Mostly cloudy w/ showers", "Icon": 13}
+{"PrecipitationType": "Rain", "HasPrecipitation": true, "PrecipitationIntensity": "Light", "IconPhrase": "Mostly cloudy w/ showers", "Icon": 13}
+{"PrecipitationType": "Rain", "HasPrecipitation": true, "PrecipitationIntensity": "Light", "IconPhrase": "Mostly cloudy w/ showers", "Icon": 13}
