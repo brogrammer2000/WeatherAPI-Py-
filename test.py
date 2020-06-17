@@ -2,11 +2,12 @@ import requests   #imports request library
 import json       #imports json library
 import time       #imports time library
 import datetime   #imports datetime library
+import numpy as np #imports numpy module
 
-cities = ["170353", "174479", "170531", "174504", "174504", "174459", "174030", "169839", "174516", "170541"] #array of location keys of required cities from AccuWeather
+loc_keys = ["170353", "174479", "170531", "174504", "174504", "174459", "174030", "169839", "174516", "170541"] #array of location keys of required cities from AccuWeather
 city_names = ["Minden", "Herford", "Hameln", "Bad Salzuflen", "Lohne", "Espelkamp", "Rinteln", "Belm", "Porta Westfalica", "Bunde"]
 
-for city in cities: #using for loop to loop through the cities
+for city in loc_keys: #using for loop to loop through the cities
  url = "http://dataservice.accuweather.com/currentconditions/v1/"+city+"/historical/24?apikey=UEUHmHQn3uRrNBAqfdPRFQQ8GQ9F4ZAb" #API call URL
 
  r = requests.get(url) #using the get method of the request module 
@@ -21,9 +22,11 @@ for city in cities: #using for loop to loop through the cities
   prediction =  x["LocalObservationDateTime"], x["Temperature"]["Metric"]["Value"], x["WeatherText"], x["HasPrecipitation"], x["PrecipitationType"] 
   #cleaning the data
  
-  with open(r"CData.txt", "a") as cleaned: #opening the local file to store the cleaned data
+  with open(r"testFinal.txt", "a") as cleaned: #opening the local file to store the cleaned data
+   cleaned.write(city)
    json.dump(prediction,cleaned) #dumps the JSON dictionary in the local file
    cleaned.write("\n") #prints a blank line so that next hour's data can be viewed clearly
+  
  
 
 

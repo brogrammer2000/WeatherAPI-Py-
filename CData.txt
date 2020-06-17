@@ -238,3 +238,369 @@
 ["2020-05-23T21:01:00+02:00", 15.2, "Cloudy", false, null]
 ["2020-05-23T20:01:00+02:00", 16.2, "Mostly sunny", false, null]
 ["2020-05-23T19:01:00+02:00", 17.6, "Partly sunny", false, null]
+["2020-06-02T16:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T15:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T14:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T13:56:00+02:00", 23.9, "Mostly cloudy", false, null]
+["2020-06-02T12:56:00+02:00", 22.8, "Mostly cloudy", false, null]
+["2020-06-02T11:56:00+02:00", 22.2, "Mostly cloudy", false, null]
+["2020-06-02T10:56:00+02:00", 21.1, "Mostly cloudy", false, null]
+["2020-06-02T09:56:00+02:00", 20.0, "Partly sunny", false, null]
+["2020-06-02T08:56:00+02:00", 17.2, "Partly sunny", false, null]
+["2020-06-02T07:56:00+02:00", 12.8, "Partly sunny", false, null]
+["2020-06-02T06:56:00+02:00", 11.1, "Partly sunny", false, null]
+["2020-06-02T05:56:00+02:00", 12.2, "Sunny", false, null]
+["2020-06-02T04:56:00+02:00", 12.8, "Clear", false, null]
+["2020-06-02T03:56:00+02:00", 13.9, "Clear", false, null]
+["2020-06-02T02:55:00+02:00", 16.1, "Clear", false, null]
+["2020-06-02T01:56:00+02:00", 16.1, "Clear", false, null]
+["2020-06-02T00:56:00+02:00", 16.1, "Partly cloudy", false, null]
+["2020-06-01T23:56:00+02:00", 15.0, "Mostly cloudy", false, null]
+["2020-06-01T22:56:00+02:00", 17.2, "Mostly cloudy", false, null]
+["2020-06-01T21:56:00+02:00", 20.0, "Mostly cloudy", false, null]
+["2020-06-01T20:56:00+02:00", 21.1, "Sunny", false, null]
+["2020-06-01T19:56:00+02:00", 22.8, "Sunny", false, null]
+["2020-06-01T18:56:00+02:00", 23.9, "Sunny", false, null]
+["2020-06-01T17:57:00+02:00", 23.9, "Sunny", false, null]
+
+["2020-06-02T16:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T15:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T14:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T13:56:00+02:00", 23.9, "Mostly cloudy", false, null]
+["2020-06-02T12:56:00+02:00", 22.8, "Mostly cloudy", false, null]
+["2020-06-02T11:56:00+02:00", 22.2, "Mostly cloudy", false, null]
+["2020-06-02T10:56:00+02:00", 21.1, "Mostly cloudy", false, null]
+["2020-06-02T09:56:00+02:00", 20.0, "Partly sunny", false, null]
+["2020-06-02T08:56:00+02:00", 17.2, "Partly sunny", false, null]
+["2020-06-02T07:56:00+02:00", 12.8, "Partly sunny", false, null]
+["2020-06-02T06:56:00+02:00", 11.1, "Partly sunny", false, null]
+["2020-06-02T05:56:00+02:00", 12.2, "Sunny", false, null]
+["2020-06-02T04:56:00+02:00", 12.8, "Clear", false, null]
+["2020-06-02T03:56:00+02:00", 13.9, "Clear", false, null]
+["2020-06-02T02:55:00+02:00", 16.1, "Clear", false, null]
+["2020-06-02T01:56:00+02:00", 16.1, "Clear", false, null]
+["2020-06-02T00:56:00+02:00", 16.1, "Partly cloudy", false, null]
+["2020-06-01T23:56:00+02:00", 15.0, "Mostly cloudy", false, null]
+["2020-06-01T22:56:00+02:00", 17.2, "Mostly cloudy", false, null]
+["2020-06-01T21:56:00+02:00", 20.0, "Mostly cloudy", false, null]
+["2020-06-01T20:56:00+02:00", 21.1, "Sunny", false, null]
+["2020-06-01T19:56:00+02:00", 22.8, "Sunny", false, null]
+["2020-06-01T18:56:00+02:00", 23.9, "Sunny", false, null]
+["2020-06-01T17:57:00+02:00", 23.9, "Sunny", false, null]
+
+Minden
+Herford
+Hameln
+Bad Salzuflen
+Lohne
+Espelkamp
+Rinteln
+Belm
+Porta Westfalica
+Bunde["2020-06-02T17:00:00+02:00", 26.9, "Sunny", false, null]
+["2020-06-02T16:03:00+02:00", 25.3, "Sunny", false, null]
+["2020-06-02T15:02:00+02:00", 24.4, "Mostly sunny", false, null]
+["2020-06-02T14:02:00+02:00", 23.6, "Sunny", false, null]
+["2020-06-02T13:00:00+02:00", 22.8, "Sunny", false, null]
+["2020-06-02T12:02:00+02:00", 22.5, "Sunny", false, null]
+["2020-06-02T11:00:00+02:00", 21.1, "Sunny", false, null]
+["2020-06-02T10:03:00+02:00", 19.6, "Sunny", false, null]
+["2020-06-02T09:03:00+02:00", 18.5, "Sunny", false, null]
+["2020-06-02T08:01:00+02:00", 12.0, "Mostly sunny", false, null]
+["2020-06-02T07:01:00+02:00", 10.5, "Partly sunny", false, null]
+["2020-06-02T06:01:00+02:00", 12.8, "Sunny", false, null]
+["2020-06-02T05:01:00+02:00", 13.3, "Clear", false, null]
+["2020-06-02T04:02:00+02:00", 13.8, "Clear", false, null]
+["2020-06-02T03:01:00+02:00", 13.2, "Mostly clear", false, null]
+["2020-06-02T02:01:00+02:00", 13.1, "Clear", false, null]
+["2020-06-02T01:01:00+02:00", 14.1, "Mostly clear", false, null]
+["2020-06-02T00:02:00+02:00", 15.2, "Partly cloudy", false, null]
+["2020-06-01T23:02:00+02:00", 16.5, "Partly cloudy", false, null]
+["2020-06-01T22:02:00+02:00", 18.3, "Mostly cloudy", false, null]
+["2020-06-01T21:01:00+02:00", 19.6, "Sunny", false, null]
+["2020-06-01T20:01:00+02:00", 20.7, "Sunny", false, null]
+["2020-06-01T19:01:00+02:00", 22.1, "Sunny", false, null]
+["2020-06-01T18:00:00+02:00", 23.2, "Sunny", false, null]
+
+Minden
+Herford
+Hameln
+Bad Salzuflen
+Lohne
+Espelkamp
+Rinteln
+Belm
+Porta Westfalica
+Bunde["2020-06-02T17:00:00+02:00", 26.8, "Sunny", false, null]
+["2020-06-02T16:03:00+02:00", 25.3, "Sunny", false, null]
+["2020-06-02T15:02:00+02:00", 25.0, "Sunny", false, null]
+["2020-06-02T14:02:00+02:00", 24.3, "Sunny", false, null]
+["2020-06-02T13:00:00+02:00", 23.7, "Sunny", false, null]
+["2020-06-02T12:02:00+02:00", 22.5, "Sunny", false, null]
+["2020-06-02T11:00:00+02:00", 21.7, "Sunny", false, null]
+["2020-06-02T10:03:00+02:00", 19.6, "Sunny", false, null]
+["2020-06-02T09:03:00+02:00", 18.5, "Sunny", false, null]
+["2020-06-02T08:01:00+02:00", 15.9, "Sunny", false, null]
+["2020-06-02T07:01:00+02:00", 13.6, "Partly sunny", false, null]
+["2020-06-02T06:01:00+02:00", 11.7, "Sunny", false, null]
+["2020-06-02T05:01:00+02:00", 10.7, "Clear", false, null]
+["2020-06-02T04:02:00+02:00", 11.7, "Clear", false, null]
+["2020-06-02T03:01:00+02:00", 12.4, "Mostly clear", false, null]
+["2020-06-02T02:01:00+02:00", 12.6, "Clear", false, null]
+["2020-06-02T01:01:00+02:00", 13.4, "Mostly clear", false, null]
+["2020-06-02T00:02:00+02:00", 14.4, "Partly cloudy", false, null]
+["2020-06-01T23:02:00+02:00", 15.8, "Partly cloudy", false, null]
+["2020-06-01T22:02:00+02:00", 17.5, "Mostly cloudy", false, null]
+["2020-06-01T21:01:00+02:00", 19.3, "Sunny", false, null]
+["2020-06-01T20:01:00+02:00", 20.5, "Mostly sunny", false, null]
+["2020-06-01T19:01:00+02:00", 21.9, "Sunny", false, null]
+["2020-06-01T18:00:00+02:00", 23.0, "Sunny", false, null]
+
+Minden
+Herford
+Hameln
+Bad Salzuflen
+Lohne
+Espelkamp
+Rinteln
+Belm
+Porta Westfalica
+Bunde["2020-06-02T17:00:00+02:00", 26.9, "Sunny", false, null]
+["2020-06-02T16:03:00+02:00", 25.3, "Sunny", false, null]
+["2020-06-02T15:02:00+02:00", 24.4, "Mostly sunny", false, null]
+["2020-06-02T14:02:00+02:00", 23.6, "Sunny", false, null]
+["2020-06-02T13:00:00+02:00", 22.8, "Sunny", false, null]
+["2020-06-02T12:02:00+02:00", 22.5, "Sunny", false, null]
+["2020-06-02T11:00:00+02:00", 21.1, "Sunny", false, null]
+["2020-06-02T10:03:00+02:00", 19.6, "Sunny", false, null]
+["2020-06-02T09:03:00+02:00", 18.5, "Sunny", false, null]
+["2020-06-02T08:01:00+02:00", 12.0, "Mostly sunny", false, null]
+["2020-06-02T07:01:00+02:00", 10.5, "Partly sunny", false, null]
+["2020-06-02T06:01:00+02:00", 12.8, "Sunny", false, null]
+["2020-06-02T05:01:00+02:00", 13.3, "Clear", false, null]
+["2020-06-02T04:02:00+02:00", 13.8, "Clear", false, null]
+["2020-06-02T03:01:00+02:00", 13.2, "Mostly clear", false, null]
+["2020-06-02T02:01:00+02:00", 13.1, "Clear", false, null]
+["2020-06-02T01:01:00+02:00", 14.1, "Mostly clear", false, null]
+["2020-06-02T00:02:00+02:00", 15.2, "Partly cloudy", false, null]
+["2020-06-01T23:02:00+02:00", 16.5, "Partly cloudy", false, null]
+["2020-06-01T22:02:00+02:00", 18.3, "Mostly cloudy", false, null]
+["2020-06-01T21:01:00+02:00", 19.6, "Sunny", false, null]
+["2020-06-01T20:01:00+02:00", 20.7, "Sunny", false, null]
+["2020-06-01T19:01:00+02:00", 22.1, "Sunny", false, null]
+["2020-06-01T18:00:00+02:00", 23.2, "Sunny", false, null]
+
+Minden
+Herford
+Hameln
+Bad Salzuflen
+Lohne
+Espelkamp
+Rinteln
+Belm
+Porta Westfalica
+Bunde["2020-06-02T17:00:00+02:00", 26.9, "Sunny", false, null]
+["2020-06-02T16:03:00+02:00", 25.3, "Sunny", false, null]
+["2020-06-02T15:02:00+02:00", 24.4, "Mostly sunny", false, null]
+["2020-06-02T14:02:00+02:00", 23.6, "Sunny", false, null]
+["2020-06-02T13:00:00+02:00", 22.8, "Sunny", false, null]
+["2020-06-02T12:02:00+02:00", 22.5, "Sunny", false, null]
+["2020-06-02T11:00:00+02:00", 21.1, "Sunny", false, null]
+["2020-06-02T10:03:00+02:00", 19.6, "Sunny", false, null]
+["2020-06-02T09:03:00+02:00", 18.5, "Sunny", false, null]
+["2020-06-02T08:01:00+02:00", 12.0, "Mostly sunny", false, null]
+["2020-06-02T07:01:00+02:00", 10.5, "Partly sunny", false, null]
+["2020-06-02T06:01:00+02:00", 12.8, "Sunny", false, null]
+["2020-06-02T05:01:00+02:00", 13.3, "Clear", false, null]
+["2020-06-02T04:02:00+02:00", 13.8, "Clear", false, null]
+["2020-06-02T03:01:00+02:00", 13.2, "Mostly clear", false, null]
+["2020-06-02T02:01:00+02:00", 13.1, "Clear", false, null]
+["2020-06-02T01:01:00+02:00", 14.1, "Mostly clear", false, null]
+["2020-06-02T00:02:00+02:00", 15.2, "Partly cloudy", false, null]
+["2020-06-01T23:02:00+02:00", 16.5, "Partly cloudy", false, null]
+["2020-06-01T22:02:00+02:00", 18.3, "Mostly cloudy", false, null]
+["2020-06-01T21:01:00+02:00", 19.6, "Sunny", false, null]
+["2020-06-01T20:01:00+02:00", 20.7, "Sunny", false, null]
+["2020-06-01T19:01:00+02:00", 22.1, "Sunny", false, null]
+["2020-06-01T18:00:00+02:00", 23.2, "Sunny", false, null]
+
+Minden
+Herford
+Hameln
+Bad Salzuflen
+Lohne
+Espelkamp
+Rinteln
+Belm
+Porta Westfalica
+Bunde["2020-06-02T16:56:00+02:00", 26.0, "Partly sunny", false, null]
+["2020-06-02T15:56:00+02:00", 26.1, "Mostly cloudy", false, null]
+["2020-06-02T14:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T13:56:00+02:00", 23.9, "Mostly cloudy", false, null]
+["2020-06-02T12:56:00+02:00", 23.9, "Mostly cloudy", false, null]
+["2020-06-02T11:56:00+02:00", 22.8, "Mostly cloudy", false, null]
+["2020-06-02T10:56:00+02:00", 21.1, "Mostly cloudy", false, null]
+["2020-06-02T09:56:00+02:00", 18.9, "Mostly cloudy", false, null]
+["2020-06-02T08:56:00+02:00", 17.2, "Partly sunny", false, null]
+["2020-06-02T07:56:00+02:00", 15.0, "Partly sunny", false, null]
+["2020-06-02T06:56:00+02:00", 10.0, "Mostly cloudy", false, null]
+["2020-06-02T05:56:00+02:00", 10.4, "Mostly sunny", false, null]
+["2020-06-02T04:56:00+02:00", 13.7, "Clear", false, null]
+["2020-06-02T03:56:00+02:00", 15.1, "Mostly clear", false, null]
+["2020-06-02T02:55:00+02:00", 16.0, "Partly cloudy", false, null]
+["2020-06-02T01:56:00+02:00", 16.2, "Mostly clear", false, null]
+["2020-06-02T00:56:00+02:00", 17.5, "Mostly clear", false, null]
+["2020-06-01T23:56:00+02:00", 18.2, "Mostly cloudy", false, null]
+["2020-06-01T22:56:00+02:00", 20.5, "Mostly cloudy", false, null]
+["2020-06-01T21:56:00+02:00", 22.0, "Cloudy", false, null]
+["2020-06-01T20:56:00+02:00", 23.1, "Partly sunny", false, null]
+["2020-06-01T19:56:00+02:00", 23.9, "Mostly sunny", false, null]
+["2020-06-01T18:56:00+02:00", 24.5, "Sunny", false, null]
+["2020-06-01T17:57:00+02:00", 24.8, "Sunny", false, null]
+
+Minden
+Herford
+Hameln
+Bad Salzuflen
+Lohne
+Espelkamp
+Rinteln
+Belm
+Porta Westfalica
+Bunde["2020-06-02T16:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T15:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T14:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T13:56:00+02:00", 23.9, "Mostly cloudy", false, null]
+["2020-06-02T12:56:00+02:00", 22.8, "Mostly cloudy", false, null]
+["2020-06-02T11:56:00+02:00", 22.2, "Mostly cloudy", false, null]
+["2020-06-02T10:56:00+02:00", 21.1, "Mostly cloudy", false, null]
+["2020-06-02T09:56:00+02:00", 20.0, "Partly sunny", false, null]
+["2020-06-02T08:56:00+02:00", 17.2, "Partly sunny", false, null]
+["2020-06-02T07:56:00+02:00", 12.8, "Partly sunny", false, null]
+["2020-06-02T06:56:00+02:00", 11.1, "Partly sunny", false, null]
+["2020-06-02T05:56:00+02:00", 12.2, "Sunny", false, null]
+["2020-06-02T04:56:00+02:00", 12.8, "Clear", false, null]
+["2020-06-02T03:56:00+02:00", 13.9, "Clear", false, null]
+["2020-06-02T02:55:00+02:00", 16.1, "Clear", false, null]
+["2020-06-02T01:56:00+02:00", 16.1, "Clear", false, null]
+["2020-06-02T00:56:00+02:00", 16.1, "Partly cloudy", false, null]
+["2020-06-01T23:56:00+02:00", 15.0, "Mostly cloudy", false, null]
+["2020-06-01T22:56:00+02:00", 17.2, "Mostly cloudy", false, null]
+["2020-06-01T21:56:00+02:00", 20.0, "Mostly cloudy", false, null]
+["2020-06-01T20:56:00+02:00", 21.1, "Sunny", false, null]
+["2020-06-01T19:56:00+02:00", 22.8, "Sunny", false, null]
+["2020-06-01T18:56:00+02:00", 23.9, "Sunny", false, null]
+["2020-06-01T17:57:00+02:00", 23.9, "Sunny", false, null]
+
+Minden
+Herford
+Hameln
+Bad Salzuflen
+Lohne
+Espelkamp
+Rinteln
+Belm
+Porta Westfalica
+Bunde["2020-06-02T17:00:00+02:00", 26.3, "Mostly sunny", false, null]
+["2020-06-02T16:03:00+02:00", 25.0, "Sunny", false, null]
+["2020-06-02T15:02:00+02:00", 25.1, "Sunny", false, null]
+["2020-06-02T14:02:00+02:00", 24.3, "Sunny", false, null]
+["2020-06-02T13:00:00+02:00", 23.6, "Sunny", false, null]
+["2020-06-02T12:02:00+02:00", 23.1, "Sunny", false, null]
+["2020-06-02T11:00:00+02:00", 21.6, "Sunny", false, null]
+["2020-06-02T10:03:00+02:00", 20.2, "Sunny", false, null]
+["2020-06-02T09:03:00+02:00", 18.0, "Sunny", false, null]
+["2020-06-02T08:01:00+02:00", 12.9, "Mostly sunny", false, null]
+["2020-06-02T07:01:00+02:00", 10.5, "Mostly cloudy", false, null]
+["2020-06-02T06:01:00+02:00", 12.5, "Sunny", false, null]
+["2020-06-02T05:01:00+02:00", 11.9, "Partly cloudy", false, null]
+["2020-06-02T04:02:00+02:00", 13.4, "Mostly clear", false, null]
+["2020-06-02T03:01:00+02:00", 14.4, "Clear", false, null]
+["2020-06-02T02:01:00+02:00", 15.4, "Mostly clear", false, null]
+["2020-06-02T01:01:00+02:00", 16.1, "Mostly cloudy", false, null]
+["2020-06-02T00:02:00+02:00", 15.7, "Partly cloudy", false, null]
+["2020-06-01T23:02:00+02:00", 18.0, "Cloudy", false, null]
+["2020-06-01T22:02:00+02:00", 18.2, "Cloudy", false, null]
+["2020-06-01T21:01:00+02:00", 20.4, "Mostly sunny", false, null]
+["2020-06-01T20:01:00+02:00", 21.1, "Mostly sunny", false, null]
+["2020-06-01T19:01:00+02:00", 21.9, "Sunny", false, null]
+["2020-06-01T18:00:00+02:00", 23.2, "Sunny", false, null]
+
+Minden
+Herford
+Hameln
+Bad Salzuflen
+Lohne
+Espelkamp
+Rinteln
+Belm
+Porta Westfalica
+Bunde["2020-06-02T16:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T15:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T14:56:00+02:00", 25.0, "Mostly cloudy", false, null]
+["2020-06-02T13:56:00+02:00", 23.9, "Mostly cloudy", false, null]
+["2020-06-02T12:56:00+02:00", 22.8, "Mostly cloudy", false, null]
+["2020-06-02T11:56:00+02:00", 22.2, "Mostly cloudy", false, null]
+["2020-06-02T10:56:00+02:00", 21.1, "Mostly cloudy", false, null]
+["2020-06-02T09:56:00+02:00", 20.0, "Partly sunny", false, null]
+["2020-06-02T08:56:00+02:00", 17.2, "Partly sunny", false, null]
+["2020-06-02T07:56:00+02:00", 12.8, "Partly sunny", false, null]
+["2020-06-02T06:56:00+02:00", 11.1, "Partly sunny", false, null]
+["2020-06-02T05:56:00+02:00", 12.2, "Sunny", false, null]
+["2020-06-02T04:56:00+02:00", 12.8, "Clear", false, null]
+["2020-06-02T03:56:00+02:00", 13.9, "Clear", false, null]
+["2020-06-02T02:55:00+02:00", 16.1, "Clear", false, null]
+["2020-06-02T01:56:00+02:00", 16.1, "Clear", false, null]
+["2020-06-02T00:56:00+02:00", 16.1, "Partly cloudy", false, null]
+["2020-06-01T23:56:00+02:00", 15.0, "Mostly cloudy", false, null]
+["2020-06-01T22:56:00+02:00", 17.2, "Mostly cloudy", false, null]
+["2020-06-01T21:56:00+02:00", 20.0, "Mostly cloudy", false, null]
+["2020-06-01T20:56:00+02:00", 21.1, "Sunny", false, null]
+["2020-06-01T19:56:00+02:00", 22.8, "Sunny", false, null]
+["2020-06-01T18:56:00+02:00", 23.9, "Sunny", false, null]
+["2020-06-01T17:57:00+02:00", 23.9, "Sunny", false, null]
+
+Minden
+Herford
+Hameln
+Bad Salzuflen
+Lohne
+Espelkamp
+Rinteln
+Belm
+Porta Westfalica
+Bunde["2020-06-02T17:00:00+02:00", 26.9, "Sunny", false, null]
+["2020-06-02T16:03:00+02:00", 25.3, "Sunny", false, null]
+["2020-06-02T15:02:00+02:00", 24.4, "Mostly sunny", false, null]
+["2020-06-02T14:02:00+02:00", 23.6, "Sunny", false, null]
+["2020-06-02T13:00:00+02:00", 22.8, "Sunny", false, null]
+["2020-06-02T12:02:00+02:00", 22.5, "Sunny", false, null]
+["2020-06-02T11:00:00+02:00", 21.1, "Sunny", false, null]
+["2020-06-02T10:03:00+02:00", 19.6, "Sunny", false, null]
+["2020-06-02T09:03:00+02:00", 18.5, "Sunny", false, null]
+["2020-06-02T08:01:00+02:00", 12.0, "Mostly sunny", false, null]
+["2020-06-02T07:01:00+02:00", 10.5, "Partly sunny", false, null]
+["2020-06-02T06:01:00+02:00", 12.8, "Sunny", false, null]
+["2020-06-02T05:01:00+02:00", 13.3, "Clear", false, null]
+["2020-06-02T04:02:00+02:00", 13.8, "Clear", false, null]
+["2020-06-02T03:01:00+02:00", 13.2, "Mostly clear", false, null]
+["2020-06-02T02:01:00+02:00", 13.1, "Clear", false, null]
+["2020-06-02T01:01:00+02:00", 14.1, "Mostly clear", false, null]
+["2020-06-02T00:02:00+02:00", 15.2, "Partly cloudy", false, null]
+["2020-06-01T23:02:00+02:00", 16.5, "Partly cloudy", false, null]
+["2020-06-01T22:02:00+02:00", 18.3, "Mostly cloudy", false, null]
+["2020-06-01T21:01:00+02:00", 19.6, "Sunny", false, null]
+["2020-06-01T20:01:00+02:00", 20.7, "Sunny", false, null]
+["2020-06-01T19:01:00+02:00", 22.1, "Sunny", false, null]
+["2020-06-01T18:00:00+02:00", 23.2, "Sunny", false, null]
+
+Minden
+Herford
+Hameln
+Bad Salzuflen
+Lohne
+Espelkamp
+Rinteln
+Belm
+Porta Westfalica
+Bunde
