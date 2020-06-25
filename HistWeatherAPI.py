@@ -4,6 +4,9 @@ import time       #imports time library
 import datetime   #imports datetime library
 import numpy as np #imports numpy module
 
+#170353, "2020-06-09 01:56:00+02:00", 11.1, "Mostly clear", false, null
+#170353["2020-06-09T01:56:00+02:00", 11.1, "Mostly clear", false, null]
+
 loc_keys = ["170353", "174479", "170531", "174504", "174504", "174459", "174030", "169839", "174516", "170541"] #array of location keys of required cities from AccuWeather
 city_names = ["Minden", "Herford", "Hameln", "Bad Salzuflen", "Lohne", "Espelkamp", "Rinteln", "Belm", "Porta Westfalica", "Bunde"]
 
@@ -22,9 +25,9 @@ for city in loc_keys: #using for loop to loop through the cities
   prediction =  x["LocalObservationDateTime"], x["Temperature"]["Metric"]["Value"], x["WeatherText"], x["HasPrecipitation"], x["PrecipitationType"] 
   #cleaning the data
  
-  with open(r"Cleaned.txt", "a") as cleaned: #opening the local file to store the cleaned data
-   cleaned.write(city)
-   json.dump(prediction,cleaned) #dumps the JSON dictionary in the local file
+  with open(r"Cleaned98.json", "a") as cleaned: #opening the local file to store the cleaned data
+   cleaned.write(city+",")
+   cleaned.write(", ".join( repr(e) for e in prediction )) #dumps the JSON dictionary in the local file
    cleaned.write("\n") #prints a blank line so that next hour's data can be viewed clearly
   
  
