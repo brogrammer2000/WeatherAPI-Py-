@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import requests   #imports request library
 import json       #imports json library
 import time       #imports time library
